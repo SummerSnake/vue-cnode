@@ -1,7 +1,8 @@
-# vue-cnode
-
-> A Vue.js project
-
+简单的 vue 仿 cnode 社区
+===
+技术栈
+---
+vue2.0 + vue-router + axios
 ## Build Setup
 
 ``` bash
